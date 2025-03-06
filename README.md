@@ -5,7 +5,8 @@ Este é um jogo simples da cobrinha (Snake) implementado em C++ que roda no term
 DEMONSTRAÇÃO: 
 ffmpeg -i input.gif -filter_complex "[0]setpts=0.5*PTS" output.gif
 
-![snake](https://github.com/user-attachments/assets/b56d33d3-471d-49ec-824e-8c3a1be7a5c4)
+<h3>DEMONSTRAÇÃO:</h3>
+<img src="https://github.com/user-attachments/assets/b56d33d3-471d-49ec-824e-8c3a1be7a5c4" width="600" />
 
 
 
