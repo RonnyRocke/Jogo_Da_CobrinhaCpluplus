@@ -2,9 +2,6 @@ Jogo da Cobrinha (Snake Game)
 
 Este é um jogo simples da cobrinha (Snake) implementado em C++ que roda no terminal. O objetivo do jogo é controlar a cobrinha, comendo as frutas que aparecem na tela, e fazendo a cobrinha crescer a cada fruta comida. O jogo termina se a cobrinha colidir com a própria cauda ou com as bordas.
 
-DEMONSTRAÇÃO: 
-ffmpeg -i input.gif -filter_complex "[0]setpts=0.5*PTS" output.gif
-
 <h3>DEMONSTRAÇÃO:</h3>
 <img src="https://github.com/user-attachments/assets/b56d33d3-471d-49ec-824e-8c3a1be7a5c4" width="600" />
 
